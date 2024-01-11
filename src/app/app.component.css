@@ -1,0 +1,22 @@
+/*.list-group{
+    cursor: pointer;
+    height: 100px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+}
+div a{
+  height: 100vh;  
+}*/
+
+.img{
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  background-color: red;
+  border-radius: 10px;
+}
